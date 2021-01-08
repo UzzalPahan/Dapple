@@ -190,7 +190,7 @@ input, select {
 	position: fixed;
 	z-index: 100000;
 }
-#loader {
+/*#loader {
 	background: url(images/loader.gif) center center no-repeat;
 	height: 50px;
 	width: 50px;
@@ -199,6 +199,7 @@ input, select {
 	position: absolute;
 	margin: -25px 0 0 -25px;
 }
+*/
 
 .element_from_top {
 	top: -50px;
