@@ -848,6 +848,7 @@ if (isMouseWheelSupported && isChrome) {
  
 })();
 
+/*
 /*-----------------------------------------------------------------------------------*/
 /* load content */
 /*-----------------------------------------------------------------------------------*/
@@ -856,6 +857,8 @@ $(window).load(function() {
   $("#loader").delay(500).fadeOut(); 
   $(".mask").delay(1000).fadeOut("slow");
 });
+
+*/
 
 //Nav
 jQuery(document).ready(function ($){
